@@ -1,3 +1,5 @@
-# Zuri Django Projects
+# SongCrud Project
 
-This directory contains all projects related to Django backend in Zuri training.
+## This is my first django project in Zuri.
+
+This is project helps to understand basic CRUD functionalities in Django.
